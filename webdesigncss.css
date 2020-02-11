@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body
+{background:black}
+body {font-family:"times new roman"}
+body {line-hieght: normal;}
+div.a {width:auto;
+		border:1px solid black;}
+body { color:gold}
+ul { border:solid}
+ul {padding-top: 5px;}
+ul {padding-bottom: 5px;}
+h2 {color: gold}
+h1 {font-size: 40px}
+p {font-size: 12px}
+.title { font-family: Georgia; }
+#list { font-family: cursive; }
