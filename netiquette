@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link href="file:///Macintosh HD/Users/mc/Documents/Netiquette Unit 4 CSS.css" rel="stylesheet" type="text/css">
+	<link href="file:///Macintosh HD/Users/mc/Documents/netiquetteunitfour.css" rel="stylesheet" type="text/css">
+	<link href="netiquetteunitfour.css" rel="stylesheet" type="text/css">
+</head>
+<body id="text">
+<h1>
+Netiquette For Students
+</h1>
+<div class="rules">
+  <h2> Be Kind </h2>
+</div>
+	<span>		</span>
+	<p> Being kind is an important way of bringing meaning to our own lives. It also brings joy to the lives of others around us. Being kind allows us to communicate better, be more compassionate, and also to be a positive force in people's lives. Kindness has its true source deep within you, and while some people are innately kind, it's something that everyone can learn by choice. </p>
+	<span>
+	<section id="writingone"></section>
+</span>
+	
+<div class="rules">
+  <h2> Be Polite </h2>
+</div>
+	<footer>
+		<section id="writingtwo">
+<p>
+Politeness is an important social skill that can help you make friends, succeed professionally, and show respect. You may have good manners already but are looking to expand them for an upcoming dinner party, work event, or just for life in general. You can be polite by offering a proper greeting and showing good manners with words and actions.
+</p>
+		</section>
+		</footer>
+	<div class="rules">
+	  <h2> Be Respectful </h2>
+	</div>
+<footer> 
+	<section id="writingthree">
+	<p>
+When you want to be respectful, try to put yourself in someone else's shoes and behave in a way that shows you care. At its heart, being respectful means showing that you value other people's perspectives, time, and space.
+</p>
+	</section>
+	</footer>
+	</body>
+<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2F2020spring20.github.io%2F"><img src="https://raw.githubusercontent.com/2020spring20/2020spring20.github.io/master/valid_html5_blue.png" width="80" height="15" alt=""/></a>
+<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F2020spring20.github.io%2Fwebdesigncss.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en"><img src="https://raw.githubusercontent.com/2020spring20/2020spring20.github.io/master/valid_css_blue.png" width="80" height="15" alt=""></a>
+
+	</html>
+
+
+
+
+
