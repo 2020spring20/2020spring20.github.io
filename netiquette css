@@ -1,0 +1,32 @@
+@charset "UTF-8";
+h1
+{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-weight: bolder;
+	color: #000000;
+	float: none;
+	clear: none;
+}
+.rules	{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: large;
+	color: #2B2B2B;
+}
+p	{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	padding-right: 10px;
+	border-style: dotted;
+	color: #3F3F3F;
+}
+body	{
+	background-color:slategrey
+}
+
+p 	{
+	padding-right: 5px;
+	margin-top: 2px;
+	border-style: dotted;	
+}
+heading
+{align-content: center}
+
