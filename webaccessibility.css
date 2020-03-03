@@ -1,0 +1,40 @@
+@charset "UTF-8";
+h1
+{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-weight: bolder;
+	color: #000000;
+}
+p	{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	padding-right: 10px;
+	border-style: dotted;
+	color:#1C1C1C;
+}
+body	{
+	background-color:slategrey
+}
+
+p 	{
+	padding-right: 5px;
+	margin-top: 2px;
+	border-style: dotted;	
+}
+h2 	{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #101010;
+}
+h3 	{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+
+#topper {
+ text-align: center;
+}
+a:link { 
+	color:#02F12B;
+}
+a:hover {
+	color: #F802E0;
+}
