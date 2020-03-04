@@ -14,3 +14,6 @@ h1 {font-size: 40px}
 p {font-size: 12px}
 .title { font-family: Georgia; }
 #list { font-family: cursive; }
+a:link {
+	color: #FFFFFF
+}
